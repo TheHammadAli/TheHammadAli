@@ -1,4 +1,4 @@
-                                                            Hi 👋, I'm Hammad Ali
+                                                        # **Hi 👋, I'm Hammad Ali**
 
 ## 💫 About Me:
 - 🌱 I’m currently working on **MERN Stack** technologies  
