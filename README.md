@@ -1,16 +1,17 @@
-                                                        # **Hi 👋, I'm Hammad Ali**
+# **Hi 👋, I'm Hammad Ali**
 
 ## 💫 About Me:
 - 🌱 I’m currently working on **MERN Stack** technologies  
-- 📫 How to reach me: [thehammadali@gmail.com](mailto:hammadalimughal08@gmail.com)  
+- 📫 How to reach me: [hammadalimughal08@gmail.com](mailto:hammadalimughal08@gmail.com)  
 - 💬 Love to talk about programming and new technologies  
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
 
 ---
 
 ## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)  
 
 ---
 
@@ -35,9 +36,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHammadAli&layout=compact&theme=default)            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHammadAli&show_icons=true&theme=default)  
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheHammadAli&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHammadAli&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHammadAli&show_icons=true&theme=default)  
 
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheHammadAli&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
