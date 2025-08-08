@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Hammad Ali
 
-<!--
-**TheHammadAli/TheHammadAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me:
+🔭 I’m currently working on MERN Stack technologies
+📫 How to reach me hammadalimughal08@gmail.com
+💬 Love to talk about programming and new technologies
+💻 Porfolio: 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+Facebook Instagram LinkedIn
+
+💻 Tech Stack:
+TypeScript AWS Firebase JavaScript Python React React Native NestJS NPM NodeJS Next JS Express.js Expo FastAPI Bootstrap SASS RxJS JWT MongoDB MySQL Postman 
+
+📊 GitHub Stats:
+HammadAli
+
+ HammadAli
