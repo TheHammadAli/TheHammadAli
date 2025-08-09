@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on **MERN Stack** technologies  
 - 📫 How to reach me: [hammadalimughal08@gmail.com](mailto:hammadalimughal08@gmail.com)  
 - 💬 Love to talk about programming and new technologies  
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
+- 🌐 Portfolio: [https://portfolio-ruby-omega-11p582pili.vercel.app/](https://portfolio-ruby-omega-11p582pili.vercel.app/)  
 
 ---
 
