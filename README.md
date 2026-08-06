@@ -254,14 +254,6 @@ Delivered multiple custom web applications for UK-based clients as a remote full
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheHammadAli&theme=discord&no-frame=true&column=7&margin-w=8&bg=0d1117&title_color=8B5CF6" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
