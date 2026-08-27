@@ -189,7 +189,7 @@ Building and shipping production platforms for the UAE services market — a cus
 <br/>
 
 ### **Full Stack Developer** · DevOmni
-📍 Sheffield, United Kingdom (Remote) · `Apr 2025 – Dec 2025`
+📍 Sheffield, United Kingdom (Remote) · `Sep 2025 – Dec 2025`
 
 Delivered multiple custom web applications for UK-based clients as a remote full stack engineer.
 
